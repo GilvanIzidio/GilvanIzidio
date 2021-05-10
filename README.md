@@ -5,6 +5,7 @@
  📫 How to reach me: in instagram @g.izidio or LinkedIn:
  www.linkedin.com/in/gilvan-izidio <br>
  
+ 
  <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -13,4 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GilvanIzidio&show_icons=true" alt="GilvanIzidio"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanIzidio&layout=compact" />
+</p>
+</p>
 </p>
