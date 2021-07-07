@@ -17,7 +17,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=GilvanIzidio&show_icons=true" alt="GilvanIzidio" /> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanIzidio&layout=compact" height=195 />
  
-  <img src="https://raw.githubusercontent.com/GilvanIzidio/GilvanIzidio/406cf06b503fbb1d1df7b61c5c55bf814f503616/Programming-amico.svg" width=350 height=350/>
+  <img src="https://raw.githubusercontent.com/GilvanIzidio/GilvanIzidio/406cf06b503fbb1d1df7b61c5c55bf814f503616/Programming-amico.svg" width=250 height=250/>
 
 
 
